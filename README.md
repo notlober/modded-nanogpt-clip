@@ -37,3 +37,9 @@ pip install --pre torch --index-url https://download.pytorch.org/whl/nightly/cu1
 python data/cached_fineweb10B.py 8 # downloads only the first 800M training tokens to save time
 ./run.sh
 ```
+
+Current results as a plot looks like this:
+
+![](plts.png)
+
+Looks interesting isn't it?
