@@ -40,6 +40,6 @@ python data/cached_fineweb10B.py 8 # downloads only the first 800M training toke
 
 Current results as a plot looks like this:
 
-![](plts.png)
+![](plts1.png)
 
 Looks interesting isn't it?
