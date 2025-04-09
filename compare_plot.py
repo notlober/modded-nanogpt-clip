@@ -26,7 +26,6 @@ def plot_val_losses(filepaths, labels=None):
     plt.ylabel("Validation Loss")
     plt.title("Validation Loss Comparison")
     plt.legend()
-    plt.show()
     plt.savefig("plts.png")
 
 filepaths = ["records/99999_PClip/b79855b1-9b23-472c-a3dc-224b8868a8fd.txt", "records/020125_RuleTweak/eff63a8c-2f7e-4fc5-97ce-7f600dae0bc7.txt"]
